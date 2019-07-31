@@ -1,0 +1,15 @@
+{
+  // Font style
+  "editor.fontFamily": "Fira Code",
+  "editor.fontSize": 16,
+  "editor.fontLigatures": true,
+  // Spacing style
+  "editor.letterSpacing": 0,
+  "editor.tabSize": 2,
+  // Auto-ident on save
+  "editor.formatOnSave": true,
+  // Theme style
+  "workbench.colorTheme": "Dracula",
+  // Prettier settings
+  "prettier.singleQuote": true
+}
