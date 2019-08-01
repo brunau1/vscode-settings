@@ -38,7 +38,7 @@ Lista de todas extensões instaladas pela interface do VSCode.
 - Prettier - Code formatter
 - vscode-styled-components
 - vscode-icons
-- Rocketeseat ReactJS
+- Rocketseat ReactJS
 
 ## 🔤 Fonte
 
