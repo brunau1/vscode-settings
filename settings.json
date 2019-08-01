@@ -10,6 +10,7 @@
   "editor.formatOnSave": true,
   // Theme style
   "workbench.colorTheme": "Dracula",
+  "workbench.iconTheme": "vscode-icons",
   // Prettier settings
   "prettier.singleQuote": true
 }
