@@ -56,7 +56,7 @@ Lista de todas extensões instaladas pela interface do VSCode.
 
 - Bracket Pair Colorizer
 - Code Runner
-- Dracuka Official
+- Dracula Official
 - Color Highlight
 - GitLeans -- Git superchanged
 - Prettier - Code formatter
@@ -68,6 +68,10 @@ Lista de todas extensões instaladas pela interface do VSCode.
 
 ### > Fira Code
 
-#### Como instalar Linux
+#### Como instalar ?
 
-Dentro da pasta: <strong>/fonts/fira-code/ttf</strong> clicar na fonta desejada e selecionar a opção Install.
+```
+Acesse a pasta ./fonts/fira-code e baixe o arquivo .zip ou a pasta ttf.
+Após o download, entre na pasta ttf escolha a fonte FiraCode-Regular.ttf e clique no botão instalar.
+Pronto, agora é so configurar o vscode.
+```
