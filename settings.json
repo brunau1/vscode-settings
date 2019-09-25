@@ -1,23 +1,19 @@
 {
   // Font style
   "editor.fontFamily": "Fira Code",
-  "editor.fontSize": 16,
+  "editor.fontSize": 12,
   "editor.fontLigatures": true,
-
   // Spacing style
   "editor.letterSpacing": 0,
-  "editor.tabSize": 2,
-
+  "editor.tabSize": 4,
   // Auto-ident on save
   "editor.formatOnSave": true,
-
   // Theme style
   "workbench.colorTheme": "Dracula",
-  "workbench.iconTheme": "vscode-icons",
-
+  "workbench.iconTheme": "material-icon-theme",
   // Prettier settings
   "prettier.singleQuote": true,
-
+  "prettier.tabWidth": 3,
   // Terminal style
   "workbench.colorCustomizations": {
     "terminal.background": "#282936",
@@ -40,5 +36,9 @@
     "terminal.ansiRed": "#EA51B2",
     "terminal.ansiWhite": "#E9E9F4",
     "terminal.ansiYellow": "#00F769"
+  },
+  "window.zoomLevel": -1,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   }
 }
