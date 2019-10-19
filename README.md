@@ -8,6 +8,7 @@
     "workbench.colorTheme": "Dracula",
     "workbench.iconTheme": "material-icon-theme",
     "prettier.singleQuote": true,
+    "editor.renderLineHighlight": "gutter",
     "editor.formatOnSave": true,
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "workbench.colorCustomizations": {
