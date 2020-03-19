@@ -29,42 +29,42 @@ Essas são as extensões/plugins que uso para configurar o editor **Visual Studi
 Segue abaixo as **configurações completas** em formato JSON do vscode. Para utiliza-las basta na aba preferences no vscode, abrir e alterar o arquivo **settings.json**.
 
 ```javascript
-{
-    //theme config
-    "workbench.colorTheme": "Dracula",
-    "workbench.iconTheme": "material-icon-theme",
-    "prettier.singleQuote": true,
-    "editor.renderLineHighlight": "gutter",
-    "editor.formatOnSave": true,
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "editor.rulers": [
-        110,
-        120
-      ],
-    "workbench.colorCustomizations": {
-        "terminal.background": "#282936",
-        "terminal.foreground": "#E9E9F4",
-        "terminalCursor.background": "#E9E9F4",
-        "terminalCursor.foreground": "#E9E9F4",
-        "terminal.ansiBlack": "#282936",
-        "terminal.ansiBlue": "#62D6E8",
-        "terminal.ansiBrightBlack": "#626483",
-        "terminal.ansiBrightBlue": "#62D6E8",
-        "terminal.ansiBrightCyan": "#A1EFE4",
-        "terminal.ansiBrightGreen": "#EBFF87",
-        "terminal.ansiBrightMagenta": "#B45BCF",
-        "terminal.ansiBrightRed": "#EA51B2",
-        "terminal.ansiBrightWhite": "#F7F7FB",
-        "terminal.ansiBrightYellow": "#00F769",
-        "terminal.ansiCyan": "#A1EFE4",
-        "terminal.ansiGreen": "#EBFF87",
-        "terminal.ansiMagenta": "#B45BCF",
-        "terminal.ansiRed": "#EA51B2",
-        "terminal.ansiWhite": "#E9E9F4",
-        "terminal.ansiYellow": "#00F769"
-      },
-      "window.zoomLevel": -1,
-}
+  "workbench.colorTheme": "Dracula",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.renderLineHighlight": "gutter",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.singleQuote": false,
+  "editor.rulers": [110, 120],
+  "workbench.colorCustomizations": {
+    "terminal.background": "#282936",
+    "terminal.foreground": "#E9E9F4",
+    "terminalCursor.background": "#E9E9F4",
+    "terminalCursor.foreground": "#E9E9F4",
+    "terminal.ansiBlack": "#282936",
+    "terminal.ansiBlue": "#62D6E8",
+    "terminal.ansiBrightBlack": "#626483",
+    "terminal.ansiBrightBlue": "#62D6E8",
+    "terminal.ansiBrightCyan": "#A1EFE4",
+    "terminal.ansiBrightGreen": "#EBFF87",
+    "terminal.ansiBrightMagenta": "#B45BCF",
+    "terminal.ansiBrightRed": "#EA51B2",
+    "terminal.ansiBrightWhite": "#F7F7FB",
+    "terminal.ansiBrightYellow": "#00F769",
+    "terminal.ansiCyan": "#A1EFE4",
+    "terminal.ansiGreen": "#EBFF87",
+    "terminal.ansiMagenta": "#B45BCF",
+    "terminal.ansiRed": "#EA51B2",
+    "terminal.ansiWhite": "#E9E9F4",
+    "terminal.ansiYellow": "#00F769"
+  },
+  "window.zoomLevel": -2,
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "terminal.integrated.rendererType": "dom",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "explorer.confirmDelete": false,
+  "javascript.updateImportsOnFileMove.enabled": "always"
 ```
 
 <hr />
